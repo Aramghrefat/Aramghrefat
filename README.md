@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Aramghrefat
+- 👋 Hi, I’m @Aramghrefat (She/Her)
 - 💻 Data Analyst | Passionate about uncovering insights from data
 - ## 🔧 Skills & Tools  
 - Languages: Python, SQL  
 - Data Tools: Tableau, Pandas, NumPy  
 - Interests: Data storytelling, machine learning basics  
 - 📫 Connect with me: [www.linkedin.com/in/aram-ghrefat-2a136b346]
-- 😄 Pronouns: She/her
 - 🍕 Fun Fact: I love food more than data… but luckily, data doesn’t get cold if I ignore it for a bit! 😆
 
 <!---
